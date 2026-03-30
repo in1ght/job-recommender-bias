@@ -1,0 +1,22 @@
+name: cbf-u-model
+channels:
+  - pytorch
+  - conda-forge
+  - defaults
+
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - pytorch
+  - torchvision
+  - torchaudio
+  - transformers
+  - lxml
+  - tqdm
+  - textstat
+  - pip
+
+  - pip:
+      - regex
