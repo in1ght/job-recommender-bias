@@ -59,11 +59,11 @@ High-quality semantic descriptions of jobs containing textual fields (job title,
 ## File Structure
 ```
 └── cbf-u_model/
- ├── cbfu.ipynb             # Step-by-step research walkthrough (experiments & exploration)
- ├── jrs_bias.pdf           # Paper describing the method
- ├── environment.yaml       # Conda environment file
- ├── README.md              # Project overview and usage instructions
- ├── LICENSE                # MIT License
+ ├── cbfu.ipynb                     # Step-by-step research walkthrough (experiments & exploration)
+ ├── jobs_bias_investigation.pdf    # Paper describing the method
+ ├── environment.yaml               # Conda environment file
+ ├── README.md                      # Project overview and usage instructions
+ ├── LICENSE                        # MIT License
 
  ├── data/                  # Dataset directory (download separately and place here)
 

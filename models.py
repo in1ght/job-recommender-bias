@@ -96,7 +96,7 @@ def compute_all_st_jobs_linkedin(
         device: str - device to run computations on
         batch_size: int - number of jobs in batch
         max_length: int - model's max token length
-        name: str - prefix for saved CSV file
+        name: str - prefix for CSV file
 
     Returns:
         pd.DataFrame:
