@@ -16,7 +16,7 @@ A Sentence-BERT (SBERT)-based Job Recommender System (JRS) designed to study bia
 
 ## Key Finding
 
- - **Key point**: Small textual changes in user profiles can alter job recommendations and salary outcomes.
+- **Key point**: Small textual changes in user profiles can alter job recommendations and salary outcomes.
 
 **Average Salary vs Bias**
 
@@ -54,7 +54,7 @@ Provides ground-truth behavioral labels enabling the standard offline evaluation
 
 **[LinkedIn Job Postings](https://www.kaggle.com/datasets/arshkon/linkedin-job-postings) (rich textual descriptions, used for the bias investigation)**
 
-High-quality semantic descriptions of jobs containing textual fields (job title, description, requirements, and related metadata). Provides natural language content that can be transformed into dense embeddings for enhanced semantic matching.
+High-quality semantic job descriptions containing textual fields (job title, description, requirements, and related metadata). Provides natural-language content that can be transformed into dense embeddings to enhance semantic matching.
   
 ## File Structure
 ```
